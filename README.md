@@ -1,3 +1,6 @@
+## NAME: TANUJA S
+## REG NO: 212224060277
+
 # Ex-2-MODE-CHARACTERISTICS-OF-REFLEX-KLYSTRON
 ## AIM:
 
@@ -42,13 +45,21 @@ Change the repeller voltage slowly & watch the VSWR meter. Set the voltage forma
 Rotate the knob of frequency meter slowly and stop at that position where there islowest O/P on VSWR meter.
 Read directly, the frequency meter between two horizontal fine marks.
 Change the repeller voltage and read the power and frequency for each repeller voltage. Mechanical and Electronic Tuning Mechanical tuning depends on changing the width of cavity i.e. the effective I capacitance and thus the resonant frequency of the klystron changes. The power output remains same with tuning. Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
-Observation: ( Include your own Table relevant to the Experiment) (Paste your Tabulation)
+## OBSERVATION:
+## TABULATION:
+
+<img width="1040" height="686" alt="image" src="https://github.com/user-attachments/assets/1ee92cde-4beb-4d72-9501-fd5f4c4ab764" />
+
+## GRAPH:
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b9fba313-d94d-445b-ad6f-4b0a9b053c9a" />
 
 ## CALCULATIONS:
 
 Tuning range of 1 ¾ mode is Po = 10(x/20) watts, where x is dB reading in VSWR meter.(Include sample calculations/Display/plot/typical graph)
 By taking the values of repeller voltage we can calculate the the mode number N1 = n + ¾ with V2 = N2 = (n +1) + ¾ with V1 = N1 & N2 are respective modes numbers.
-ETS (Electronic Tuning Sensitivity) = f2 - f1 / V2 – V1 MHz / V
+ETS (Electronic Tuning Sensitivity) = f2 - f1 / V2 – V1 MHz / V.
+
 ## PRECAUTIONS:
 
 Check the connections before switching on the kit.
@@ -72,3 +83,4 @@ If the main supply failed in the middle of the experiment, come to 1st condition
 Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
 ## RESULT:
+Thus the  characteristics of reflex klystron is studied successfully.
